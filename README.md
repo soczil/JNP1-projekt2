@@ -89,13 +89,3 @@ W rozwiązaniu nie należy nadużywać kompilacji warunkowej. Fragmenty tekstu
 źródłowego realizujące wyspecyfikowane operacje na zbiorach nie powinny zależeć
 od sposobu kompilowania – parametr -DNDEBUG lub jego brak (inaczej wersja
 diagnostyczna nie miałaby sensu).
-
-Przykład użycia znajduje się w pliku poset_example1.c. Przykład informacji
-diagnostycznych wypisywanych przez ten program znajduje się w pliku
-poset_example1.err.
-
-Aby umożliwić używanie wyżej opisanych funkcji w języku C++, przy kompilowaniu
-w C++ pliku nagłówkowego modułu deklaracje funkcji powinny znaleźć się
-w przestrzeni nazw jnp1. Przykład użycia znajduje się w pliku poset_example2.cc.
-Przykład informacji diagnostycznych wypisywanych przez ten program znajduje się
-w pliku poset_example2.err.
