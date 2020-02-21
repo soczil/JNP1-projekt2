@@ -1,4 +1,4 @@
-Drugie zadanie zaliczeniowe z JNP1. (robione w trzy osoby)
+Drugie zadanie zaliczeniowe z JNP1.
 
 Treść zadania:
 
